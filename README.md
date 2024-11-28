@@ -46,11 +46,13 @@ Improve platform features and engagement.
 
 
 ## Proposed Solution / Architecture Diagram
+![PROPOSED SOLUTION](https://github.com/user-attachments/assets/c521a3d8-6302-4c5a-b220-06bf146fbc91)
+
 
 
 
 ## Use Cases
-
+![USE CASES](https://github.com/user-attachments/assets/cc384177-6a56-4122-a5e6-5ed84e830879)
 
 
 ## Technology Stack
